@@ -1,0 +1,14 @@
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\bin\Debug\net8.0\Consoleeee.exe
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\bin\Debug\net8.0\Consoleeee.deps.json
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\bin\Debug\net8.0\Consoleeee.runtimeconfig.json
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\bin\Debug\net8.0\Consoleeee.dll
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\bin\Debug\net8.0\Consoleeee.pdb
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.AssemblyInfoInputs.cache
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.AssemblyInfo.cs
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.csproj.CoreCompileInputs.cache
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.dll
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\refint\Consoleeee.dll
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.pdb
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\Consoleeee.genruntimeconfig.cache
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\asgmnt\Consoleeee\obj\Debug\net8.0\ref\Consoleeee.dll
